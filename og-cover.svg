@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientTransform="translate(190 120) rotate(32) scale(840 720)">
+      <stop stop-color="#ffffff" />
+      <stop offset="1" stop-color="#ede7de" />
+    </radialGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="translate(770 220) rotate(52) scale(240)">
+      <stop stop-color="#ffffff" />
+      <stop offset="0.45" stop-color="#8a8881" />
+      <stop offset="1" stop-color="#111111" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" rx="40" fill="url(#bg)" />
+  <circle cx="900" cy="218" r="126" fill="url(#orb)" />
+  <circle cx="900" cy="218" r="182" stroke="#111111" stroke-opacity="0.08" />
+  <circle cx="900" cy="218" r="228" stroke="#111111" stroke-opacity="0.04" />
+  <text x="84" y="170" fill="#646464" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28" letter-spacing="6">
+    OFFICIAL PORTAL / ENTERPRISE INTELLIGENCE
+  </text>
+  <text x="84" y="308" fill="#111111" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="96" font-weight="700">
+    保定智镜科技
+  </text>
+  <text x="84" y="404" fill="#3f3f3f" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="48" font-weight="600">
+    将智能，私有化。
+  </text>
+  <text x="84" y="486" fill="#5b5b5b" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="28">
+    本地大模型 · RAG 知识增强 · Agent 智能体 · 系统集成与陪跑交付
+  </text>
+</svg>
