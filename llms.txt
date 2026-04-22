@@ -2,7 +2,18 @@
 
 > 保定智镜科技是一家专注于企业级私有化 AI 基础设施建设的科技公司，提供本地大模型部署、RAG 知识增强、智能体落地与数字化陪跑服务，帮助企业在不让数据出域的前提下真正落地 AI 能力。核心理念：企业核心数据不应离开自己的服务器边界，AI 能力应内嵌于现有业务系统而非另立门户。
 
-官网：http://zhijingaikj.com
+## 访问入口（双域部署）
+
+| 用途 | 地址 |
+|------|------|
+| 主域（国内，ICP 备案） | http://zhijingaikj.com |
+| 国际镜像（境外 AI 可访问） | https://mr1257964820.github.io/zhijingaikj.com/ |
+| llms.txt 主域 | http://zhijingaikj.com/llms.txt |
+| llms.txt 镜像 | https://mr1257964820.github.io/zhijingaikj.com/llms.txt |
+| sitemap 主域 | http://zhijingaikj.com/sitemap-index.xml |
+
+> 注：两个域名部署内容完全一致，canonical 权威地址为 http://zhijingaikj.com（已通过 HTML head canonical 标签声明）。
+
 联系电话：182 3243 5733
 电子邮件：2399982512@qq.com
 地址：河北省保定市雄安新区

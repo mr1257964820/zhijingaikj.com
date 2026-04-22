@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
 
+# 主域（国内访问）
 Sitemap: http://zhijingaikj.com/sitemap-index.xml
+
+# 国际镜像（境外 AI 爬虫）
+Sitemap: https://mr1257964820.github.io/zhijingaikj.com/sitemap-index.xml
+
+# AI 爬虫专用语义文件
+# llms.txt: http://zhijingaikj.com/llms.txt
+# llms.txt mirror: https://mr1257964820.github.io/zhijingaikj.com/llms.txt
